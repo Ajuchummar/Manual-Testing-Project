@@ -1,5 +1,6 @@
 # Manual-Testing-Project
-nopCommerce Demo Websitehttps://demo.nopcommerce.com/
+nopCommerce Demo Website
+https://demo.nopcommerce.com/
 
 Test Plan :
 https://docs.google.com/document/d/1yzNxTW-OxrSN4-xGLLLicLtoU3sGdsJX/edit
