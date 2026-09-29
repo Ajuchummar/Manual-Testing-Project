@@ -3,30 +3,18 @@
 
 ## Application Under Test
 Application: nopCommerce Demo Website
+
 URL: [nopcommerce](https://demo.nopcommerce.com/)
 
 ## Testing Scope
-Homepage functionality.
-
-User Registration and Login.
-
-Product Search and Product Catalog.
-
-Product Details Page
-
 Shopping Cart
+
+Product Search
 
 Wishlist
 
-Product Comparison
+Contact Us
 
-Checkout Process
-
-Payment method selection
-
-Order confirmation
-
-Contact Us form
 
 
 
@@ -41,6 +29,19 @@ Contact Us form
 
 ## Tools & Technologies
 - Manual Testing
+- Excel
+
+## Scope & Execution
+
+- Designed and executed 39 test cases across 4 core modules: Shopping Cart, Product Search, Wishlist, and Contact Us.
+- Authored complete QA documentation: Test Plan, Test Cases, Bug Report, Test Summary Report, and a formal Test Sign-off Document — following a structured STLC approach (Entry/Exit criteria, roles & responsibilities, approvals).
+
+
+## Execution Metrics
+
+- 📅 7 working days (13-03-2026 -19-03-2026)
+- ✅ 39 test cases executed → 38 passed / 1 failed 
+- 🐞 1 defects logged — 1 Minor
 
 ## Testing Documents
 
