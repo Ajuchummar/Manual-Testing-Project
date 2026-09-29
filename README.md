@@ -6,9 +6,12 @@ Application: nopCommerce Demo Website
 URL: [nopcommerce](https://demo.nopcommerce.com/)
 
 ## Testing Scope
-Homepage functionality
-User Registration and Login
-Product Search and Product Catalog
+Homepage functionality.
+
+User Registration and Login.
+
+Product Search and Product Catalog.
+
 Product Details Page
 Shopping Cart
 Wishlist
