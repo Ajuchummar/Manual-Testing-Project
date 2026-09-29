@@ -2,6 +2,16 @@
 nopCommerce Demo Website
 https://demo.nopcommerce.com/
 
+
+
+
+
+
+## Tools & Technologies
+- Manual Testing
+
+## Testing Documents
+
 Test Plan :
 https://docs.google.com/document/d/1yzNxTW-OxrSN4-xGLLLicLtoU3sGdsJX/edit
 
